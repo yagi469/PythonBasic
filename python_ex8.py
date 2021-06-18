@@ -1,3 +1,5 @@
+# http://tinyurl.com/z52c8z8
+
 import math
 
 # 対角線の長さ
